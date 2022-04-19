@@ -79,7 +79,7 @@ const ICU = () => {
                     width: "200px",
                     borderRadius: "100%",
                   }}
-                  filename="risk.jpg"
+                  filename="icu9.jpg"
                   alt="1"
                 />
               </div>

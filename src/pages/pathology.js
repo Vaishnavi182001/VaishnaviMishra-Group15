@@ -253,7 +253,7 @@ const Pathology = () => {
                     width: "200px",
                     borderRadius: "100%",
                   }}
-                  filename="senior citizen.jpg"
+                  filename="Senior Citizen.jpg"
                   alt="1"
                 />{" "}
                 <div class="card-header">
